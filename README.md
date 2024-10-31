@@ -95,6 +95,3 @@ pip install yt-dlp
 - Check that FFmpeg is correctly installed and added to your PATH.
 - Ensure you have an active internet connection.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
